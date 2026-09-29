@@ -41,18 +41,20 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omaraldeek3&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.hackclub.dev/api?username=Omaraldeek3&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omaraldeek3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs?username=Omaraldeek3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🔥 GitHub Streak  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omaraldeek3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omaraldeek3&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
