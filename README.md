@@ -41,11 +41,11 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Omaraldeek3&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omaraldeek3&theme=radical" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs?username=Omaraldeek3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omaraldeek3&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
