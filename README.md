@@ -1,78 +1,75 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-# Omar Aldeek · عمر الديك
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omaraldeek3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-**Developer · Designer · Automation builder**
-مبرمج · مصمّم · باني أنظمة أتمتة
+<h1 align="center">Hello there 👋, I'm Omar Aldeek</h1>
 
-I build bilingual (Arabic-first) websites, workshop tools, and AI automation, and I run a signage and laser workshop in Palestine, so the tools I write get used on real machines every day.
 
-[Portfolio](https://omaraldeek3.github.io/ar/) · [Cut Studio](https://omaraldeek3.github.io/tools/) · [Contact](https://omaraldeek3.github.io/ar/#contact)
-
-</div>
-
----
-
-## Selected work
-
-### Cut Studio: a free design and laser toolkit in the browser
-[![Cut Studio](assets/cut-studio.jpg)](https://omaraldeek3.github.io/tools/)
-
-Twenty-three tools I use in my own workshop: material nesting, image to vector (colour and outline modes), an AI upscaler for large-format print, poster tiling, contour offset, Arabic and English lettering as cut paths, box maker, engraving prep, material cost and more. Everything runs locally in the browser, and exports open cleanly in CorelDRAW, Illustrator and RDWorks.
-
-`Next.js` `TypeScript` `ONNX Runtime Web` `Real-ESRGAN` `HarfBuzz` `Playwright`
-**[Open Cut Studio](https://omaraldeek3.github.io/tools/)** · [Source](https://github.com/Omaraldeek3/Omaraldeek3.github.io)
-
-### Sheikh Kasem: food and spices company site
-[![Sheikh Kasem](assets/sheikh-kasem.jpg)](https://omaraldeek3.github.io/sheikhkasem3/)
-
-An Arabic RTL site for a Palestinian food manufacturer founded in 1934, with a photoreal 3D product in the hero.
-
-`React 19` `Three.js` `Vite`
-**[Live site](https://omaraldeek3.github.io/sheikhkasem3/)** · [Source](https://github.com/Omaraldeek3/sheikhkasem3)
-
-### Basma: signage and gifts store
-[![Basma Store](assets/basma-store.jpg)](https://basma-store.vercel.app/ar)
-
-A bilingual storefront for a signage, engraving and custom-gifts workshop in Ramallah. The owner edits products in Sanity CMS, and customers order through WhatsApp.
-
-`Next.js 15` `Sanity CMS` `Tailwind CSS 4` `Zustand`
-**[Live site](https://basma-store.vercel.app/ar)** · source is private (client project)
-
-### Arabic Shorts Factory: an automation pipeline
-A system that writes, checks, voices, renders and publishes short videos every day without supervision. n8n schedules each step, one language model writes the script and a second one takes over if the first fails, a validator rejects scripts that break the rules, and the finished video goes out to YouTube and TikTok.
-
-`n8n` `LLMs` `ElevenLabs` `edge-tts` `MoneyPrinterTurbo` `VPS`
-**[See it in the lab](https://omaraldeek3.github.io/ar/#lab)** · source is private
-
-### This portfolio
-[![Portfolio](assets/portfolio.jpg)](https://omaraldeek3.github.io/ar/)
-
-Bilingual (Arabic and English), built for the phone first, with twenty design studies and a lab of SaaS and automation demos.
-
-**[Visit](https://omaraldeek3.github.io/ar/)** · [Source](https://github.com/Omaraldeek3/Omaraldeek3.github.io)
+## 🚀 About Me  
+- 💻 Developer, designer and automation builder: *web apps, workshop tools and AI automation*  
+- 🛠️ I run a signage and laser workshop in Palestine, so the tools I write get used on real machines  
+- 🌍 Arabic-first: I build bilingual, right-to-left products that work on the phone first  
+- 📫 Reach me through my [portfolio](https://omaraldeek3.github.io/ar/#contact)  
 
 ---
 
-## What I work with
-
-**Code:** TypeScript, React, Next.js, Tailwind CSS, Three.js, Node.js, Sanity CMS, Playwright
-**Automation and AI:** n8n, LLM APIs, ONNX Runtime, ElevenLabs
-**Design and fabrication:** CorelDRAW, Illustrator, Photoshop, RDWorks; CO2 and fiber laser, CNC router, vinyl plotter, large-format and sublimation printing
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://omaraldeek3.github.io/ar/" target="_blank">Portfolio</a> ·
+  <a href="https://omaraldeek3.github.io/tools/" target="_blank">Cut Studio</a>
+</p>
 
 ---
 
-<div dir="rtl">
+## 🛠️ Languages & Tools  
+<p align="left"> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> </a> 
+  <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> </a> 
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/> </a> 
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> </a> 
+  <a href="https://threejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/> </a> 
+</p>
 
-## بالعربي
+---
 
-أبني مواقع وتطبيقات ويب عربية أولاً، وأدوات للورش، وأنظمة أتمتة بالذكاء الاصطناعي. وعندي ورشة دعاية وإعلان وقص ليزر في فلسطين، فالأدوات التي أكتبها تُستخدم كل يوم على آلات حقيقية.
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omaraldeek3&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+</p>
 
-- **[Cut Studio](https://omaraldeek3.github.io/tools/)**: ثلاث وعشرون أداة مجانية للتصميم والقص بالليزر تعمل في المتصفح.
-- **[الشيخ قاسم](https://omaraldeek3.github.io/sheikhkasem3/)**: موقع شركة مواد غذائية وتوابل بمنتج ثلاثي الأبعاد.
-- **[بصمة](https://basma-store.vercel.app/ar)**: متجر لورشة دعاية وهدايا في رام الله، والطلب عبر واتساب.
-- **مصنع الشورتس العربي**: نظام ينتج فيديوهات قصيرة وينشرها كل يوم دون تدخّل.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omaraldeek3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+</p>
 
-لطلب موقع أو أداة أو نظام أتمتة: **[تواصل معي](https://omaraldeek3.github.io/ar/#contact)**
+---
 
-</div>
+## 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omaraldeek3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💡 Fun Facts  
+- 🔥 I write software for machines I actually own: CO2 and fiber lasers, a CNC router, a vinyl plotter and large-format printers.  
+- 🎯 My goal is to *build tools people use every day*.  
+
+---
+
+## 🎯 Projects & Repositories  
+
+🔹 [Cut Studio: free design and laser toolkit in the browser](https://omaraldeek3.github.io/tools/)  
+
+📌 Check out more projects on my [GitHub Repositories](https://github.com/Omaraldeek3?tab=repositories)!  
+
+---
+
+⭐ *Keep coding, keep learning, and never stop exploring!* 🚀  
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
