@@ -18,7 +18,8 @@
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://omardeek.tech/ar" target="_blank">Portfolio</a> ·
-  <a href="https://cutstudio.omardeek.tech" target="_blank">Cut Studio</a>
+  <a href="https://cutstudio.omardeek.tech" target="_blank">Cut Studio</a> ·
+  <a href="https://sira.omardeek.tech" target="_blank">Sira</a>
 </p>
 
 ---
@@ -66,7 +67,8 @@
 
 ## 🎯 Projects & Repositories  
 
-🔹 [Cut Studio: free design and laser toolkit in the browser](https://cutstudio.omardeek.tech)  
+🔹 [Cut Studio: free design and laser toolkit in the browser](https://cutstudio.omardeek.tech) · [source](https://github.com/Omaraldeek3/cut-studio)  
+🔹 [Sira · سيرة: a free CV builder that keeps your Arabic and English CVs in step](https://sira.omardeek.tech) · [source](https://github.com/Omaraldeek3/sira)  
 
 📌 Check out more projects on my [GitHub Repositories](https://github.com/Omaraldeek3?tab=repositories)!  
 
