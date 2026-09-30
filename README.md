@@ -11,14 +11,14 @@
 - 💻 Developer, designer and automation builder: *web apps, workshop tools and AI automation*  
 - 🛠️ I run a signage and laser workshop in Palestine, so the tools I write get used on real machines  
 - 🌍 Arabic-first: I build bilingual, right-to-left products that work on the phone first  
-- 📫 Reach me through my [portfolio](https://omaraldeek3.github.io/ar/#contact)  
+- 📫 Reach me through my [portfolio](https://omardeek.tech/ar#contact)  
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://omaraldeek3.github.io/ar/" target="_blank">Portfolio</a> ·
-  <a href="https://omaraldeek3.github.io/tools/" target="_blank">Cut Studio</a>
+  <a href="https://omardeek.tech/ar" target="_blank">Portfolio</a> ·
+  <a href="https://cutstudio.omardeek.tech" target="_blank">Cut Studio</a>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🎯 Projects & Repositories  
 
-🔹 [Cut Studio: free design and laser toolkit in the browser](https://omaraldeek3.github.io/tools/)  
+🔹 [Cut Studio: free design and laser toolkit in the browser](https://cutstudio.omardeek.tech)  
 
 📌 Check out more projects on my [GitHub Repositories](https://github.com/Omaraldeek3?tab=repositories)!  
 
