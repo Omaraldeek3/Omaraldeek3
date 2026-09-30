@@ -19,7 +19,8 @@
 <p align="left">
   <a href="https://omardeek.tech/ar" target="_blank">Portfolio</a> ·
   <a href="https://cutstudio.omardeek.tech" target="_blank">Cut Studio</a> ·
-  <a href="https://sira.omardeek.tech" target="_blank">Sira</a>
+  <a href="https://sira.omardeek.tech" target="_blank">Sira</a> ·
+  <a href="https://harf.omardeek.tech" target="_blank">Harf</a>
 </p>
 
 ---
@@ -69,6 +70,7 @@
 
 🔹 [Cut Studio: free design and laser toolkit in the browser](https://cutstudio.omardeek.tech) · [source](https://github.com/Omaraldeek3/cut-studio)  
 🔹 [Sira · سيرة: a free CV builder that keeps your Arabic and English CVs in step](https://sira.omardeek.tech) · [source](https://github.com/Omaraldeek3/sira)  
+🔹 [Harf · حرف: preview and compare 436 Arabic and English fonts, export SVG outlines](https://harf.omardeek.tech) · [source](https://github.com/Omaraldeek3/harf)  
 
 📌 Check out more projects on my [GitHub Repositories](https://github.com/Omaraldeek3?tab=repositories)!  
 
